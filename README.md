@@ -1,5 +1,5 @@
 # OldRobloxStudioUIBringer
-Easiest way to bring back old Roblox Studio UI design.
+The easiest way to bring back the old Roblox Studio UI design.
 
 # How to use?
 Download "OldRobloxStudioUIBringer.exe" file and open it to bring back the old Roblox Studio UI design.
